@@ -1,0 +1,1 @@
+{"scripts":{"dev":"node server.js","build":"node build.js","preview":"node server.js"}}
